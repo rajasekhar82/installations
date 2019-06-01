@@ -12,6 +12,9 @@ cd /opt
 
 ## Download tomcat
 sudo wget http://redrockdigimark.com/apachemirror/tomcat/tomcat-8/v8.5.31/bin/apache-tomcat-8.5.31.tar.gz
+or
+sudo wget http://mirrors.estointernet.in/apache/tomcat/tomcat-8/v8.5.41/bin/apache-tomcat-8.5.41.tar.gz
+
 
 ## Untar the file
 sudo tar -xf apache-tomcat-8.5.31.tar.gz
